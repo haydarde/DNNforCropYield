@@ -14,3 +14,4 @@ The list of the files and their usage are given below:
 8. allAnalyses.R - Reproduce the figures and tables given in the article.
 9. benchmarkResults.csv - Results of the benchmarking for the analysis of results.
 10. cornRiceWheat.csv - Production data for corn, rice, and wheat for the create the plots in the article. 
+11. grainProduction.RData - Research data which is also available in dLagM R package version 1.1.6.
